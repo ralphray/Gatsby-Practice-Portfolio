@@ -12,8 +12,7 @@ export const heroData = {
   title: 'Presenting',
   name: 'Monsieur Ralph Ray',
   subtitle: 'International Hair Stylist Extraordinaire',
-      cta: 'https://media1.fdncms.com/charlotte/imager/question-the-queen-city-who-remembers-the-bhagwan/u/original/3040277/1363384227-bhagwan_shree_rajneesh_orhi98356.jpg',
-     
+      cta: '',
 };
 
 
