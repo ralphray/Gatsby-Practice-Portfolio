@@ -40,7 +40,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'project2.jpg',
     title: 'Norwich Studios',
-    info: 'Located in the heart of glitzy Noz, Monsieur Ralph Ray is your hairdresser, providing all kinds of ultra-modern and innovative services in haircare. Having worked in hair care and hair design for 200 years, He has experience with all types of hair. I’m proud to offer my customers a wide range of hairstyles, treatments, looks and helpful products that reflect their individuality and personal taste. Stop by today if you can afford us!      ',
+    info: 'Located in the heart of glitzy Noz, Monsieur Ralph Ray is your hairdresser, providing all kinds of ultra-modern and innovative services in haircare. Having worked in hair care and hair design for 200 years, He has experience with all types of hair. I’m proud to offer my customers a wide range of hairstyles, treatments, looks and helpful products that reflect their individuality and personal taste... Stop by today if you can afford us!      ',
     info2: '',
       url: 'https://media1.fdncms.com/charlotte/imager/question-the-queen-city-who-remembers-the-bhagwan/u/original/3040277/1363384227-bhagwan_shree_rajneesh_orhi98356.jpg',
     repo: '', // if no repo, the button will not show up
