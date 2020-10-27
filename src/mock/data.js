@@ -30,8 +30,8 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'project.jpg',
-    title: 'London Salon',
-    info: '       The literal French translation of "gamine" is "playful," which is a fitting term to describe the "boyishly short and sassy hairstyle," says Penna, who points to Audrey Hepburns iconic style as a prime example. Gamine also includes the pixie cut, which involves shorn sides and back with longer layers on top.     ',
+    title: 'Signature Styles',
+    info: '       The literal French translation of "Soma" is "playful," which is a fitting term to describe the "boyishly short and sassy hairstyle," says Penna, who points to Audrey Hepburns iconic style as a prime example. Soma also includes the pixie cut, which involves shorn sides and back with longer layers on top.     ',
     info2: '',
       url: 'https://media1.fdncms.com/charlotte/imager/question-the-queen-city-who-remembers-the-bhagwan/u/original/3040277/1363384227-bhagwan_shree_rajneesh_orhi98356.jpg',
     repo: '', // if no repo, the button will not show up
